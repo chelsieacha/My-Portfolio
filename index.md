@@ -1,5 +1,5 @@
 --
-title:Welcome to My DevOps Engineer Portfolio
+Welcome to My DevOps Engineer Portfolio
 ---
 Hello! I'm Chelsie Belleh, a DevOps Engineer with over 6 years of experience in automation, CI/CD pipeline setup, cloud infrastructure, containerization, and monitoring. This repository showcases various projects, tools, and configurations I’ve developed to improve and streamline DevOps processes.
 
